@@ -1,3 +1,4 @@
+Translating by sueccku
 Docker Engine swarm mode - Intro tutorial
 ============================
 
